@@ -89,6 +89,7 @@ int mode(int arr[],int n){
 	}
 
 	return t+a;
+}
 
 
 int factors(int n,int arr[]){
