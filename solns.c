@@ -103,5 +103,6 @@ int factors(int n,int arr[]){
 
 		}
 	}
+	
 	return idx;
 }
