@@ -93,7 +93,7 @@ int mode(int arr[],int n){
 
 
 int factors(int n,int arr[]){
-	int n=t;
+	int t=n;
 	int idx=0;
 
 	for(int i=2;i<=n;i++){
